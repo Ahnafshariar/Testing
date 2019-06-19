@@ -88,4 +88,5 @@ def get_product_info(url):
 
 # "~" + str(product_type) +
 
-get_product_info("https://www.tintenalarm.de/toner-von-tintenalarm.de-ersetzt-brother-tn-8000-schwarz-ca.-2.200-seiten-p-5424.html")
+# get_product_info("https://www.tintenalarm.de/2-feinstaubfilter-clean-office-filtert-feinstaub-aus-laserdruckern-fax-und-kopierern-p-16783.html")
+# get_product_info("https://www.tintenalarm.de/toner-von-tintenalarm.de-ersetzt-brother-tn-8000-schwarz-ca.-2.200-seiten-p-5424.html")
