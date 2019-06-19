@@ -35,7 +35,7 @@ def get_product_info(url):
         manufacturer = ""
     else:
         manufacturer = manufacturer_div.text.strip()
-       
+
         print(manufacturer)
 
     product_price = soup.find('div', {'class': 'product-info-preis'})
